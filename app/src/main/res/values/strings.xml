@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">SetGuide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment">Fragment Sayfası</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+    <string-array name="saved_descr">
+        <item>One of the best Mosques of Istanbul</item>
+        <item>Interesting place to buy something</item>
+        <item>A historical bridge that has a amazing views</item>
+        <item>A quiet place in green </item>
+        <item>Historical place</item>
+        <item>One of the best Turkish breakfast is in here</item>
+        <item>One of the signature buildings of Turkey</item>
+        <item>Great place to photoshoot</item>
+        <item>Drink at Seven Hills rooftop with view of the city</item>
+
+
+
+
+
+
+
+    </string-array>
+    <string-array name="saved_activities">
+        <item>Sultan Ahmet Mosque</item>
+        <item>Grand Bazaar</item>
+        <item>Galata Bridge</item>
+        <item>Gulhane Park</item>
+        <item>Theodosius Cistern</item>
+        <item>Privato Cafe</item>
+        <item>Galata Tower</item>
+        <item>Rainbow Stairs</item>
+        <item>Seven Hills Hotel</item>
+
+
+
+
+
+
+
+    </string-array>
+
+    <string-array name="youtuber_activities">
+        <item>Sultan Ahmet Mosque</item>
+        <item>Privato Cafe</item>
+        <item>Galata Tower</item>
+        <item>Rainbow Stairs</item>
+        <item>Grand Bazaar</item>
+        <item>Seven Hills Hotel</item>
+
+
+    </string-array>
+
+    <string-array name="youtube_descr">
+        <item>One of the best Mosques of Istanbul</item>
+        <item>One of the best Turkish breakfast is in here</item>
+        <item>One of the signature buildings of Turkey</item>
+        <item>Great place to photoshoot</item>
+        <item>Interesting place to buy something</item>
+        <item>A quiet place in green </item>
+        <item>Historical place</item>
+
+
+
+        <item>Drink at Seven Hills rooftop with view of the city</item>
+
+
+
+
+
+
+
+    </string-array>
+</resources>

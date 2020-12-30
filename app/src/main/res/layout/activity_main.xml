@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <com.google.android.material.tabs.TabLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tab_layout"
+        app:tabTextColor="@color/white"
+        app:tabSelectedTextColor="@color/white"
+        android:background="@color/FireBrick"/>
+
+
+    <androidx.viewpager.widget.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/view_pager">
+
+        <Button
+            android:id="@+id/planEkle"
+            android:layout_width="182dp"
+            android:layout_height="43dp"
+
+            android:background="@color/DarkRed"
+            android:text="Make A New Plan"
+            app:backgroundTint="#C30202" />
+    </androidx.viewpager.widget.ViewPager>
+
+
+
+
+
+
+</LinearLayout>
